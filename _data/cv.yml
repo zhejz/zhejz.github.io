@@ -106,9 +106,3 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
-        - title: "Reserach Interests:"
-          contents:
-            - Autonomous Driving.
-            - Reinforcement Learning and Imitation Learning.
-            - Neural Simulation and Neural Rendering.
