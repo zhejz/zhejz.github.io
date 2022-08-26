@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://vision.ee.ethz.ch/'>CVL</a>, ETH Zurich.
+# subtitle: <a href='https://vision.ee.ethz.ch/'>CVL</a>, ETH Zurich.
 
 profile:
   align: right
