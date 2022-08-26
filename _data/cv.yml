@@ -15,8 +15,8 @@
       institution: ETH Zurich, Switzerland
       year: 2023
       description:
-        - Computer Vision Lab (CVL): https://vision.ee.ethz.ch/
-        - Toyota Research on Automated Cars in Europe (TRACE) Zurich: https://www.trace.ethz.ch/
+        - "Computer Vision Lab (CVL), https://vision.ee.ethz.ch/"
+        - "Toyota Research on Automated Cars in Europe (TRACE) Zurich: https://www.trace.ethz.ch/"
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -29,7 +29,7 @@
         - Focused on System & Control, and computer vision.
         - ESOP Scholarship 2016.
         - Willi Studer Prize 2019 (ETH Zurich Best Student Award).
-        - Grade: 5.93/6.0
+        - "Grade: 5.93/6.0"
     - title: Bachelor of Science
       institution: TU Munich, Germany
       year: 2016
@@ -38,7 +38,7 @@
         - Focused on Control & Communication Engineering.
         - DAAD Scholarship 2012 - 2016.
         - Top 1 in the ranking.
-        - Grade: 1.03/1.0
+        - "Grade: 1.03/1.0"
 
 
 - title: Experience
