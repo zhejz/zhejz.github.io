@@ -17,11 +17,6 @@
       description:
         - Computer Vision Lab (CVL)
         - Toyota Research on Automated Cars in Europe (TRACE) Zurich
-        - title: "Reserach Interests:"
-          contents:
-            - Autonomous Driving.
-            - Reinforcement Learning and Imitation Learning.
-            - Neural Simulation and Neural Rendering.
     - title: Master of Science
       institution: ETH Zurich, Switzerland
       year: 2019
@@ -75,37 +70,45 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://ethz.ch/en/the-eth-zurich/education/awards/willi-studer-prize.html">Willi Studer Prize</a> 2019 (ETH Zurich Best Student Award).
+    - year: 2016
       items: 
-        - Max Planck Medal
+        - <a href="https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html">ESOP Scholarship</a>
+    - year: 2012
+      items: 
+        - <a href="https://www.daad.de/en/">DAAD</a> Full Scholarship 2012 - 2016.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Autonomous Driving.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - End-to-End Driving.
+        - Neural Simulation.
+    - title: Policy Learning.
       items:
-        - Description 1.
-        - Description 2.
+        - Reinforcement Learning.
+        - Imitation Learning.
 
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+        - title: "Reserach Interests:"
+          contents:
+            - Autonomous Driving.
+            - Reinforcement Learning and Imitation Learning.
+            - Neural Simulation and Neural Rendering.
