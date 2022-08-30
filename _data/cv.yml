@@ -36,24 +36,24 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Computer Vision and Control Engineer
+    - title: R&D Engineer
       institution: <a href="https://www.seervision.com/">Seervision AG</a>, Zurich, Switzerland
       year: 2019
       description:
-        - Perception, estimation and optimization. 
-        - Design and implement the cinematographic tracking algorithm.
+        - Develop and deploy cinematographic tracking algorithms for pan-tilt-zoom (PTZ) cameras.
+        - "Computer vision and robotics: perception, estimation and optimization."
     - title: Master Thesis
-      institution: <a href="https://control.ee.ethz.ch/">Automatic Control Laboratory</a>, ETH Zürich
+      institution: Automatic Control Laboratory (<a href="https://control.ee.ethz.ch/">IFA</a>), ETH Zürich and Seervision AG.
       year: 2018
       description:
         - Supervised by Dr. <a href="https://ch.linkedin.com/in/nikoskariotoglou">Nikos Kariotoglou</a> and Prof. <a href="https://control.ee.ethz.ch/people/profile.john-lygeros.html">John Lygeros</a>.
         - "Title: Learning Cinematographic Motion Control from Videos"
-        - "Keywords: Multi-Object Tracking, Human Motion Prediction, MPC for path planning."
+        - "Keywords: Multi-Object Tracking, Human Motion Prediction, MPC for Path Planning."
     - title: Research Assistant
       institution: <a href="https://www.seervision.com/">Seervision AG</a>, Zurich, Switzerland
       year: 2017 - 2018
       description:
-        - Computer Vision and Robotics.
+        - Prototype learning-based tracking algorithms for pan-tilt cameras.
 
       # description:
       #   - Description 1.
