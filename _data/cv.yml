@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: ETH Zurich, Switzerland
-      year: 2020 - 2023
+      year: 2020 - now
       description:
         - Computer Vision Lab (<a href="https://vision.ee.ethz.ch/">CVL</a>)
         - Toyota Research on Automated Cars in Europe, Zurich (<a href="https://www.trace.ethz.ch/">TRACE Zurich</a>)
@@ -22,15 +22,15 @@
       year: 2016 - 2019
       description:
         - Electrical Engineering and Information Technology.
-        - Focused on System & Control, Machine Learning & Computer Vision.
-        - "Top 1 in the Ranking. Grade: 5.93/6.0"
+        - Focus on System & Control, Machine Learning & Computer Vision.
+        - "Top 1 in the Ranking (Grade: 5.93/6.0)."
     - title: Bachelor of Science
       institution: TU Munich, Germany
       year: 2012 - 2016
       description:
         - Electrical Engineering and Information Technology.
-        - Focused on Control & Communication Engineering.
-        - "Top 1 in the Ranking. Grade: 1.03/1.0"
+        - Focus on Control & Communication Engineering.
+        - "Top 1 in the Ranking (Grade: 1.03/1.0)."
 
 
 - title: Experience
