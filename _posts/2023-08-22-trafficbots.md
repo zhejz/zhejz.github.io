@@ -17,7 +17,7 @@ authors:
   - name: Dengxin Dai
     url: "https://www.linkedin.com/in/dengxin-dai-2412725a/"
     affiliations:
-      name: CVL, ETH Zürich <br> MPI for Informatics
+      name: CVL, ETH Zürich
   - name: Fisher Yu
     url: "https://www.trace.ethz.ch/team/members/fisher.html"
     affiliations:
@@ -52,8 +52,8 @@ toc:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
   - name: Overview
-  - name: Citation
   - name: Supplementary Videos
+  - name: Citation
   # - name: Layouts
   # - name: Other Typography?
 
