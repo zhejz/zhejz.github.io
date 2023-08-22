@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.JPG
   image_circular: true # crops the image to make it circular
   # address: >
   #   <p>ETF D 112</p>

@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: TrafficBots
-description: TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction
+description: "TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction"
 date: 2023-08-22
 permalink: /trafficbots
 
