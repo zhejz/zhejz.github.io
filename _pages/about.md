@@ -23,5 +23,5 @@ My project is funded by Toyota Research on Automated Cars in Europe ([TRACE](htt
 Before joining CVL I received my BSc in ITET from [TU Munich](https://www.tum.de/) and my MSc in ITET from [ETH Zurich](https://ethz.ch/de.html).
 As master thesis topic I worked on vision-based control and considered that as my research interest since then.
 
-My current research interests include imitation learning, reinforcement learning, world models, neural rendering and their applications to autonomous driving.
-In particular, I'm trying to tackle the problem of autonomous driving from a data-driven perspective by combining end-to-end policy learning and neural simulation.
+My current research interests include imitation learning, reinforcement learning, world models, Transformers and their applications to autonomous driving and robotics.
+In particular, I tackle the problem of planing in highly interactive driving scenarios from a data-driven perspective by combining end-to-end policy learning and neural simulation.
