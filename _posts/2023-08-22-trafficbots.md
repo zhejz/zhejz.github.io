@@ -19,7 +19,6 @@ authors:
     affiliations:
       name: CVL, ETH Zürich
   - name: Fisher Yu
-    url: "https://www.trace.ethz.ch/team/members/fisher.html"
     affiliations:
       name: CVL, ETH Zürich
   - name: Luc Van Gool
