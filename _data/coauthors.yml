@@ -1,17 +1,18 @@
 "Liniger":
   - firstname: ["Alexander", "Alex", "A."]
-    url: https://scholar.google.com/citations?user=amb0lc0AAAAJ&hl=en
+    url: https://alexliniger.github.io/
 
 "Dai":
   - firstname: ["Dengxin", "D."]
-    url: https://vas.mpi-inf.mpg.de/dengxin/
+    url: https://scholar.google.ch/citations?user=T51W57YAAAAJ&hl=en
+
+"Sakaridis": 
+  - firstname: ["Christos", "C."]
+    url: http://people.ee.ethz.ch/~csakarid/
 
 "Yu":
   - firstname: ["Fisher", "F."]
 
 "Van Gool": 
   - firstname: ["Luc", "L."]
-    url: https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjQ4LC0xOTcxNDY1MTc4.html
-
-  # - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-  #   url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+    url: https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjcxLC0xOTcxNDY1MTc4.html

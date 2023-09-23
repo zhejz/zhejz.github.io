@@ -7,11 +7,11 @@ permalink: /trafficbots
 
 authors:
   - name: Zhejun Zhang
-    url: "https://www.trace.ethz.ch/team/members/zhejun.html"
+    url: "https://zhejz.github.io/"
     affiliations:
       name: CVL, ETH Zürich
   - name: Alex Liniger
-    url: "https://www.linkedin.com/in/alexander-liniger/"
+    url: "https://alexliniger.github.io/"
     affiliations:
       name: CVL, ETH Zürich
   - name: Dengxin Dai
@@ -22,9 +22,9 @@ authors:
     affiliations:
       name: CVL, ETH Zürich
   - name: Luc Van Gool
-    url: "https://www.trace.ethz.ch/team/members/luc.html"
+    url: "https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjcxLC0xOTcxNDY1MTc4.html"
     affiliations:
-      name: CVL, ETH Zürich <br> PSI, KU Leuven
+      name: CVL, ETH Zürich <br> PSI, KU Leuven <br> INSAIT, Sofia
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
@@ -60,7 +60,7 @@ toc:
 <center>
 <div class="links">
 <a href="https://arxiv.org/abs/2303.04116" class="btn btn-sm z-depth-1" role="button" target="_blank">arXiv</a>
-<a href="https://github.com/SysCV/TrafficBots" class="btn btn-sm z-depth-1" role="button" target="_blank">Code</a>
+<a href="https://github.com/zhejz/TrafficBots" class="btn btn-sm z-depth-1" role="button" target="_blank">Code</a>
 <a href="/assets/pdf/trafficbots_arxiv.pdf" class="btn btn-sm z-depth-1" role="button" target="_blank">PDF</a>
 <a href="/assets/pdf/trafficbots_poster.pdf" class="btn btn-sm z-depth-1" role="button" target="_blank">Poster</a>
 <a href="/assets/pdf/trafficbots_slides.pdf" class="btn btn-sm z-depth-1" role="button" target="_blank">Slides</a>
