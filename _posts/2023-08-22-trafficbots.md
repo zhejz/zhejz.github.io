@@ -61,7 +61,6 @@ toc:
 <div class="links">
 <a href="https://arxiv.org/abs/2303.04116" class="btn btn-sm z-depth-1" role="button" target="_blank">arXiv</a>
 <a href="https://github.com/zhejz/TrafficBots" class="btn btn-sm z-depth-1" role="button" target="_blank">Code</a>
-<a href="/assets/pdf/trafficbots_arxiv.pdf" class="btn btn-sm z-depth-1" role="button" target="_blank">PDF</a>
 <a href="/assets/pdf/trafficbots_poster.pdf" class="btn btn-sm z-depth-1" role="button" target="_blank">Poster</a>
 <a href="/assets/pdf/trafficbots_slides.pdf" class="btn btn-sm z-depth-1" role="button" target="_blank">Slides</a>
 </div>
