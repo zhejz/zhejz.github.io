@@ -2,8 +2,8 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Open-source repositories for my publications.
-nav: false
+# description: Open-source repositories for my publications.
+nav: true
 nav_order: 3
 ---
 
