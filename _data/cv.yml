@@ -36,6 +36,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Internship, Autonomous Vehicles
+      institution: <a href="https://research.nvidia.com/labs/avg/">NVIDIA Autonomous Vehicle Research Group</a>, Zurich, Switzerland
+      year: 2024 - 2025
+      description:
+        - Working on planning and prediction algorithms for autonomous vehicles.
     - title: R&D Engineer
       institution: <a href="https://www.seervision.com/">Seervision AG</a>, Zurich, Switzerland
       year: 2019
