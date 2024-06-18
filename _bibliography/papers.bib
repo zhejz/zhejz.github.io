@@ -1,12 +1,25 @@
 ---
 ---
 
-@inproceedings{zhang2023hptr,
+@article{zhang2024trafficbots,
+  title={TrafficBots V1.5: Traffic Simulation via Conditional VAEs and Transformers with Relative Pose Encoding},
+  author={Zhang, Zhejun and Sakaridis, Christos and Van Gool, Luc},
+  journal={arXiv preprint arXiv:2406.10898},
+  abstract = {In this technical report we present TrafficBots V1.5, a baseline method for the closed-loop simulation of traffic agents. TrafficBots V1.5 achieves baseline-level performance and a 3rd place ranking in the Waymo Open Sim Agents Challenge (WOSAC) 2024. It is a simple baseline that combines TrafficBots, a CVAE-based multi-agent policy conditioned on each agent's individual destination and personality, and HPTR, the heterogeneous polyline transformer with relative pose encoding. To improve the performance on the WOSAC leaderboard, we apply scheduled teacher-forcing at the training time and we filter the sampled scenarios at the inference time. The code is available at https://github.com/zhejz/TrafficBotsV1.5.},
+  year={2024},
+  arxiv = {2406.10898},
+  preview = {cvpr2024_winner.jpg},
+  code = {https://github.com/zhejz/TrafficBotsV1.5},
+  bibtex_show = {true},
+  selected = {true},
+}
+
+@article{zhang2024hptr,
   title = {Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  journal = {Advances in Neural Information Processing Systems (NeurIPS)},
   author = {Zhang, Zhejun and Liniger, Alexander and Sakaridis, Christos and Yu, Fisher and Van Gool, Luc},
   abstract = {The real-world deployment of an autonomous driving system requires its components to run on-board and in real-time, including the motion prediction module that predicts the future trajectories of surrounding traffic participants. Existing agent-centric methods have demonstrated outstanding performance on public benchmarks. However, they suffer from high computational overhead and poor scalability as the number of agents to be predicted increases. To address this problem, we introduce the K-nearest neighbor attention with relative pose encoding (KNARPE), a novel attention mechanism allowing the pairwise-relative representation to be used by Transformers. Then, based on KNARPE we present the heterogeneous polyline Transformer with relative pose encoding (HPTR), a hierarchical framework enabling asynchronous token update during the online inference. By sharing contexts among agents and reusing the unchanged contexts, our approach is as efficient as scene-centric methods, while performing on par with state-of-the-art agent-centric methods. Experiments on Waymo and Argoverse-2 datasets show that HPTR achieves superior performance among end-to-end methods that do not apply expensive post-processing or ensembling. The code is available at https://github.com/zhejz/HPTR.},
-  year = {2023},
+  year = {2024},
   arxiv = {2310.12970},
   preview = {hptr_preview.png},
   code = {https://github.com/zhejz/HPTR},
