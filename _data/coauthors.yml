@@ -1,3 +1,27 @@
+"Karkus":
+  - firstname: ["Peter", "P."]
+    url: https://karkus.tilda.ws/
+
+"Igl":
+  - firstname: ["Maximilian", "M."]
+    url: https://maximilianigl.com/
+
+"Ding":
+  - firstname: ["Wenhao", "W."]
+    url: https://wenhao.pub/
+
+"Chen":
+  - firstname: ["Yuxiao", "Y."]
+    url: https://research.nvidia.com/labs/avg/author/yuxiao-chen/
+
+"Ivanovic":
+  - firstname: ["Boris", "B."]
+    url: https://www.borisivanovic.com/
+
+"Pavone":
+  - firstname: ["Marco", "M."]
+    url: https://web.stanford.edu/~pavone/index.html
+
 "Liniger":
   - firstname: ["Alexander", "Alex", "A."]
     url: https://alexliniger.github.io/
