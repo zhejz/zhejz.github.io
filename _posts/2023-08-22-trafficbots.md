@@ -22,7 +22,7 @@ authors:
     affiliations:
       name: CVL, ETH Zürich
   - name: Luc Van Gool
-    url: "https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjcxLC0xOTcxNDY1MTc4.html"
+    url: "https://insait.ai/prof-luc-van-gool/"
     affiliations:
       name: CVL, ETH Zürich <br> PSI, KU Leuven <br> INSAIT, Sofia
 

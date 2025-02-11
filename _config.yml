@@ -6,7 +6,7 @@ title: Zhejun Zhang # the website title (if blank, full name will be used instea
 first_name: Zhejun
 middle_name: 
 last_name: Zhang
-email: zhejun.zhang@vision.ee.ethz.ch
+email: zhejun.zhang94@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student at ETH Zurich.
 footer_text: >
@@ -77,7 +77,6 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://vision.ee.ethz.ch/people-details.MjI5NzUw.TGlzdC8zMjg5LC0xOTcxNDY1MTc4.html # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
