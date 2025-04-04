@@ -35,6 +35,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist, Computer Vision and Machine Learning
+      institution: Huawei Zurich Research Center, Zurich, Switzerland
+      year: 2025 - Now
+      description:
+        - Develop IL and RL algorithms for next-generation smartphone cameras.
     - title: Research Internship, Autonomous Vehicles
       institution: <a href="https://research.nvidia.com/labs/avg/">NVIDIA Autonomous Vehicle Research Group</a>, Zurich, Switzerland
       year: 2024 - 2025
