@@ -2,7 +2,7 @@
 layout: page
 permalink: /patents/
 title: patents
-years: [2023]
+years: [2025, 2023]
 nav: true
 nav_order: 1
 ---
